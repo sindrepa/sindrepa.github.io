@@ -33,7 +33,7 @@
 
 header {
   background-color: #fed94f;
-  color: white;
+  color: #333;
   display: flex;
   justify-content: space-between;
   align-items: center;

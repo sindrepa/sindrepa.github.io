@@ -37,16 +37,9 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  display:inline-block;
   padding: 20px;
 }
 
-header nav a {
-  color: white;
-  display:inline-block;
-  width:50%;
-  text-align:center;
-}
 
 main {
   max-width: 800px;
